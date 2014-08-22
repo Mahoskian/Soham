@@ -1,12 +1,10 @@
 Soham
 =====
-
+```
 Collective Ideas of,
 
-```
 Soham Naik
 Dr.George Alber Cook
-```
 
 Includes,
 
@@ -26,7 +24,7 @@ Minecraft
             Moded Servers
             Bukkit Servers
             Vanilla Servers
-            
+```            
 Initial Setup
 ============
 1. Set the directory you want to use using the commands cd and ls
