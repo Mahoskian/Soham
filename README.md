@@ -12,24 +12,26 @@ Initial Setup
 ============
 1. Set the directory you want to use using the commands cd and ls
       example:
-             ```
-             HC-Lab-5:~ hcstudent$ ls
-             Applications	Documents	Library		Music		Public
-             Desktop		Downloads	Movies		Pictures	Sites
-             HC-Lab-5:~ hcstudent$ cd Desktop
-             HC-Lab-5:Desktop hcstudent$ ls
-             DigisparkArduino.app	Student Files
-             GitHub			heli
-             HC-Lab-5:Desktop hcstudent$ cd GitHub
-             HC-Lab-5:GitHub hcstudent$ ls
-             RocksAndRobots	RocksNRobots	Soham
-             HC-Lab-5:GitHub hcstudent$ cd Soham
-             HC-Lab-5:Soham hcstudent$ ls
-             Programs	README.md 
+            ```
+            HC-Lab-5:~ hcstudent$ ls
+            Applications	Documents	Library		Music		Public
+            Desktop		Downloads	Movies		Pictures	Sites
+            HC-Lab-5:~ hcstudent$ cd Desktop
+            HC-Lab-5:Desktop hcstudent$ ls
+            DigisparkArduino.app	Student Files
+            GitHub			heli
+            HC-Lab-5:Desktop hcstudent$ cd GitHub
+            HC-Lab-5:GitHub hcstudent$ ls
+            RocksAndRobots	RocksNRobots	Soham
+            HC-Lab-5:GitHub hcstudent$ cd Soham
+            HC-Lab-5:Soham hcstudent$ ls
+            Programs	README.md 
             ```
 2. Create a copy of the repository on your computer using the command git clone and paste the url in 
       example:
-            git clone 
+            ```
+            git clone https://github.com/Mahoskian/Soham.git
+            ```
 There will now be a folder on your computer that is linked with the repository
 
 
@@ -57,7 +59,10 @@ Add New Files
 4. Finally to upload your changes to the master repository (hosted on github) by using the command git push
 
 Now if you check the GitHub your files should be added
-```
+
 More Help
 =========
+```
 This youtube video has a very good example of how to use all the basic commands: https://www.youtube.com/watch?v=0fKg7e37bQE&list=WL&index=14
+```
+=========
