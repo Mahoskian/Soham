@@ -49,6 +49,7 @@ git pull          (Updates your files from cloud)
 
 Add New Files
 ============
+```
 1. Place the file in the folder that you wish to move to the cloud. You can check to see it is there by using the command git status it will be listed under untracked files
 
 2. Use the command git add followed by the file name or the folder the file or files are in.
@@ -63,7 +64,7 @@ Add New Files
             git push
 
 Now if you check the GitHub your files should be added
-
+```
 More Help
 =========
 
