@@ -3,16 +3,16 @@ Soham
 
 Collective Ideas of,
 
-```
+
 Soham Naik
 Dr.George Alber Cook
-```
+
 
 Initial Setup
 ============
 1. Set the directory you want to use using the commands cd and ls
       example:
-            ```
+            
             HC-Lab-5:~ hcstudent$ ls
             Applications	Documents	Library		Music		Public
             Desktop		Downloads	Movies		Pictures	Sites
@@ -26,12 +26,12 @@ Initial Setup
             HC-Lab-5:GitHub hcstudent$ cd Soham
             HC-Lab-5:Soham hcstudent$ ls
             Programs	README.md 
-            ```
+            
 2. Create a copy of the repository on your computer using the command git clone and paste the url in 
       example:
-            ```
+            
             git clone https://github.com/Mahoskian/Soham.git
-            ```
+            
 There will now be a folder on your computer that is linked with the repository
 
 
@@ -63,7 +63,9 @@ Now if you check the GitHub your files should be added
 More Help
 =========
 
-This youtube video has a very good example of how to use all the basic commands: https://www.youtube.com/watch?v=0fKg7e37bQE&list=WL&index=14
+This youtube video has a very good example of how to use all the basic commands: 
+
+https://www.youtube.com/watch?v=0fKg7e37bQE&list=WL&index=14
 
 
 Importent Links
