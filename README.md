@@ -32,7 +32,7 @@ Initial Setup
             
             git clone https://github.com/Mahoskian/Soham.git
             
-There will now be a folder on your computer that is linked with the repository
+There will now be a folder on your computer that is linked with the repository in the cloud.
 
 
 Commands
@@ -49,14 +49,18 @@ git pull          (Updates your files from cloud)
 
 Add New Files
 ============
-1. Place the file in the folder you created earlier. You can check to see it is there by using the command git status it will be listed under untracked files
+1. Place the file in the folder that you wish to move to the cloud. You can check to see it is there by using the command git status it will be listed under untracked files
 
-2. Use the command git add followed by the file name.
-
+2. Use the command git add followed by the file name or the folder the file or files are in.
+      example:
+            git add "Folder Name or File Name"   (Dont type "")
 3. To commit the changes you the command git commit followed by the file name. By also adding -m and a note in quotations a message will be added to the commit.
-
+      example:
+            git commit -a -m "Some random Comment"  (-a is optional it addes the comment after the -m in the "" to ALL               files, after -m type a comment MUST put in "") 
 
 4. Finally to upload your changes to the master repository (hosted on github) by using the command git push
+      example:
+            git push
 
 Now if you check the GitHub your files should be added
 
@@ -64,9 +68,9 @@ More Help
 =========
 
 This youtube video has a very good example of how to use all the basic commands: 
-
+```
 https://www.youtube.com/watch?v=0fKg7e37bQE&list=WL&index=14
-
+```
 
 Importent Links
 =========
