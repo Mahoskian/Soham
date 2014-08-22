@@ -8,6 +8,25 @@ Soham Naik
 Dr.George Alber Cook
 ```
 
+Includes,
+
+Programming
+      Arduino
+      Python
+      Java
+      HTML
+      Scratch
+      Command Line
+      Apps(.apk)
+      and more!
+Minecraft
+      Mods
+            HammyCraft
+      Server Tmplates
+            Moded Servers
+            Bukkit Servers
+            Vanilla Servers
+            
 Initial Setup
 ============
 1. Set the directory you want to use using the commands cd and ls
