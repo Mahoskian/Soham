@@ -1,4 +1,7 @@
 Soham
 =====
 
-Many many things suc as programs.
+Collective Ideas of,
+
+Soham Naik
+Dr.George Alber Cook
