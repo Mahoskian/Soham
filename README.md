@@ -57,7 +57,7 @@ Add New Files
             git add "Folder Name or File Name"   (Dont type "")
 3. To commit the changes you the command git commit followed by the file name. By also adding -m and a note in quotations a message will be added to the commit.
       example:
-            git commit -a -m "Some random Comment"  (-a is optional it addes the comment after the -m in the "" to ALL               files, after -m type a comment MUST put in "") 
+            git commit -a -m "Some random Comment"  (-a is optional it addes the comment after the -m in the "" to ALL files, after -m type a comment MUST put in "") 
 
 4. Finally to upload your changes to the master repository (hosted on github) by using the command git push
       example:
